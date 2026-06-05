@@ -7,7 +7,7 @@
 3. Round buttons with ripple effects.
 4. Close Menu for exit.
 
-## Screenshots:
+## u idiot
 
 #### My app:
 
