@@ -1,4 +1,4 @@
-# Simple Android Calculator
+# Simple Android Calculator by Vichithra
 
 ### Features
 
